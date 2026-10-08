@@ -1,0 +1,16 @@
+# Secrets and login tokens
+.env
+.cache
+.cache-*
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Editor and code runner leftovers
+.vscode/
+tempCodeRunnerFile.py
